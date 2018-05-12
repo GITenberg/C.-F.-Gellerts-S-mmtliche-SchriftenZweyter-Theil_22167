@@ -1,0 +1,54 @@
+_repo: C.-F.-Gellerts-S-mmtliche-SchriftenZweyter-Theil_22167
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gellert, Christian Fürchtegott
+    alias: Gellert, Christian Furchtegott
+    birthdate: 1715
+    deathdate: 1769
+    gutenberg_agent_id: '3015'
+    url: http://www.gutenberg.org/2009/agents/3015
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Christian_F%C3%BCrchtegott_Gellert
+    - http://en.wikipedia.org/wiki/Christian_F%C3%BCrchtegott_Gellert
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2007-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22167'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Christian poetry'
+- !lcsh 'German poetry -- 18th century'
+tableOfContents: "Der Menschenfreund.                                     S.\r\nReichthum\
+  \ und Ehre.\r\nDer Christ.\r\nDer Stolz.\r\nDie Freundschaft.\r\nDer Ruhm.\r\nAn\
+  \ den Herrn Grafen Hanns Moritz von Brühl; bey seinem vierzehnten Geburtstage.\r\
+  \nAn Herrn Johann Andreas Cramer; bey seiner Verbindung.\r\nAuf Herrn Willens Tod.\r\
+  \nBitten.\r\nDanklied.\r\nDas Gebet.\r\nDie Ehre Gottes aus der Natur.\r\nPrüfung\
+  \ am Abend.\r\nGelassenheit.\r\nDie Wachsamkeit.\r\nWider den Uebermuth.\r\nBeständige\
+  \ Erinnerung des Todes.\r\nOsterlied.\r\nDer Kampf der Tugend.\r\nDie Güte Gottes.\r\
+  \nDas natürliche Verderben des Menschen.\r\nDer Weg des Frommen.\r\nPaßionslied.\r\
+  \nDer thätige Glaube.\r\nWarnung vor der Wollust.\r\nMorgengesang.\r\nVon der Quelle\
+  \ der guten Werke.\r\nPreis des Schöpfers.\r\nTrost der Erlösung.\r\nLied am Geburtstage.\r\
+  \nVom Worte Gottes.\r\nWeihnachtslied.\r\nGeduld.\r\nGottes Macht und Vorsehung.\r\
+  \nDie Liebe des Nächsten.\r\nAbendlied.\r\nAuf die Himmelfahrt des Erlösers.\r\n\
+  Am Communiontage.\r\nZufriedenheit mit seinem Zustande.\r\nVom Tode.\r\nWider den\
+  \ Aufschub der Bekehrung.\r\nBußlied.\r\nDie Liebe der Feinde.\r\nDemuth.\r\nWeihnachtslied.\r\
+  \nDas Glück eines guten Gewissens.\r\nVersicherung der Gnade Gottes.\r\nErmunterung\
+  \ die Schrift zu lesen.\r\nAbendlied.\r\nPaßionslied.\r\nIn Krankheit.\r\nOsterlied.\r\
+  \nVertraun auf Gottes Vorsehung.\r\nWider den Geiz.\r\nAllgemeines Gebet.\r\nTrost\
+  \ eines schwermüthigen Christen.\r\nOsterlied.\r\nBetrachtung des Todes.\r\nUm Ergebung\
+  \ in den göttlichen Willen.\r\nAm neuen Jahre.\r\nDer Schutz der Kirche.\r\nTrost\
+  \ des ewigen Lebens."
+title: 'C. F. Gellerts Sämmtliche Schriften
+
+  Zweyter Theil'
+url: http://www.gutenberg.org/ebooks/22167
